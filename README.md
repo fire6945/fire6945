@@ -11,17 +11,15 @@
   </h2>
 
 <ul>
-  <li>
-    Rubik's Cube
-    Watching Netflix
-    Reading
-    Coding
-    Math
-    Doing stuff on the computer
-    Minecraft
-    Tennis
-    And Stuff 
-    </li>
+  <li>Rubik's Cube</li>
+    <li>Watching Netflix</li>
+    <li>Reading</li>
+    <li>Coding</li>
+    <li>Math</li>
+    <li>Doing stuff on the computer</li>
+    <li>Minecraft</li>
+    <li>Tennis</li>
+    <li>And Stuff</li>
   </ul>
 
 <hr>

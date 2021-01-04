@@ -1,4 +1,4 @@
-### Annyeonghaseyeo 👋
+### Annyeonghaseyeo I am jdl-monkey-coder 👋
 
 - 🔭 I’m currently working on Python and JavaScript (I am furthest ahead in Python).
 - 🤔 I’m looking for help with finding resources for learning increasingly advanced programming topics and building upon what I know.

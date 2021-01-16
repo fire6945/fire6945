@@ -1,4 +1,4 @@
-### Annyeonghaseyeo I am jdl-monkey-coder 👋
+### Annyeonghaseyeo I am an Asian man. That is why my username is asianmancoder!  👋
 
 - 🔭 I’m currently working on Python and JavaScript (I am furthest ahead in Python).
 - 🤔 I’m looking for help with finding resources for learning increasingly advanced programming topics and building upon what I know.

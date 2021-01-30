@@ -1,9 +1,9 @@
 ### Annyeonghaseyeo I am an Asian man. That is why my username is asianmancoder!  👋
 
-- 🔭 I’m currently working on Python and JavaScript (I am furthest ahead in Python).
+- 🔭 I’m currently working on Python. 
 - 🤔 I’m looking for help with finding resources for learning increasingly advanced programming topics and building upon what I know.
 - 💬 Ask me about contributing to repos.
-- 📫 If you want to reach me, I have three emails: josephdlee08@gmail.com : 123.jdlee08@gmail.com : Dlq.Jr@outlook.com : I am also active on Discord - MaximumProse#0565.
+- 📫 If you want to reach me, I have three emails: josephdlee08@gmail.com : 123.jdlee08@gmail.com : Dlq.Jr@outlook.com : I am also active on Discord - fire#6945.
 - ⚡ Fun facts: I really like math, reading and the idea of the Finnish Education System. I am also a huuuuge fan of Cubing!!!
 
 <h2>
@@ -24,5 +24,5 @@
 
 <hr>
 
-<img alt="jdl-monkey-coder's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jdl-monkey-coder&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
-<img alt="jdl-monkey-coder's github stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdl-monkey-coder&layout=compact&theme=radical&hide_border=true&card_width=250"/>
+<img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=asianmancoder&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
+<img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asianmancoder&layout=compact&theme=radical&hide_border=true&card_width=250"/>

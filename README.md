@@ -1,14 +1,14 @@
 ### Annyeonghaseyeo I am an Asian man. That is why my username is asianmancoder!  👋
 
 - 🔭 I’m currently working on Python. 
-- 🤔 I’m looking for help with writing more efficient and readable code. 
-- 💬 Ask me about contributing to repos.
+- 🤔 I’m looking for help with writing more efficient code and thinking like a real programmer (~~not some random middle school wannabe~~).
+- 💬 Ask me about programming challenges. 
 - 📫 If you want to reach me, I have three emails: josephdlee08@gmail.com : 123.jdlee08@gmail.com : Dlq.Jr@outlook.com : I am also active on Discord - fire#6945.
 - ⚡ Fun facts: I really like math, reading and the idea of the Finnish Education System. I am also a huuuuge fan of Cubing!!!
 
 <h2>
   Hobbies:
-  </h2>
+ </h2>
 
 <ul>
   <li>Rubik's Cube</li>
@@ -23,6 +23,8 @@
   </ul>
 
 <hr>
+
+<marquee><button>THIS BUTTON DOES NOTHING LOL</button></marquee>
 
 <img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=asianmancoder&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
 <img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asianmancoder&layout=compact&theme=radical&hide_border=true&card_width=250"/>

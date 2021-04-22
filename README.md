@@ -1,8 +1,8 @@
 ### Annyeonghaseyeo I am an Asian man. That is why my username is asianmancoder!  👋
 
 - 🔭 I’m currently working on Python. 
-- 🤔 I’m looking for help with writing more efficient code and thinking like a real programmer (~~not some random middle school wannabe~~).
-- 💬 Ask me about programming challenges. 
+- 🤔 I’m looking for help with... well, nothing much tbh.
+- 💬 Ask me about... collaborating on projects.
 - 📫 If you want to reach me, I have three emails: josephdlee08@gmail.com : 123.jdlee08@gmail.com : Dlq.Jr@outlook.com : I am also active on Discord - fire#6945.
 - ⚡ Fun facts: I really like math, reading and the idea of the Finnish Education System. I am also a huuuuge fan of Cubing!!!
 

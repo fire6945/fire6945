@@ -1,10 +1,10 @@
 ### Annyeonghaseyeo I am an Asian man. That is why my username is asianmancoder!  👋
 
-- 🔭 I’m currently working on Python. 
+- 🔭 I’m currently working on Python (specifically networking... but I occaisionally have side - projects).
 - 🤔 I’m looking for help with... well, nothing much tbh.
 - 💬 Ask me about... collaborating on projects.
-- 📫 If you want to reach me, I have three emails: josephdlee08@gmail.com : 123.jdlee08@gmail.com : Dlq.Jr@outlook.com : I am also active on Discord - fire#6945.
-- ⚡ Fun facts: I really like math, reading and the idea of the Finnish Education System. I am also a huuuuge fan of Cubing!!!
+- 📫 If you want to reach me, contact me by my main email (Dlq.Jr@outlook.com), or DM me on Discord at fire#6945.
+- ⚡ Fun facts: I like monkeys, math, reading, blood oranges, The Lord of the Rings, The Hobbit, lots more.
 
 <h2>
   Hobbies:

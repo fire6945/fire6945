@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Python (specifically networking... but I occaisionally have side - projects).
 - 🤔 I’m looking for help with... well, nothing much tbh.
 - 💬 Ask me about... collaborating on projects.
-- 📫 If you want to reach me, contact me by my main email (Dlq.Jr@outlook.com), or DM me on Discord at fire#6945.
+- 📫 If you want to reach me, contact me by my main email (Dlq.Jr@outlook.com).
 - ⚡ Fun facts: I like monkeys, math, reading, blood oranges, The Lord of the Rings, The Hobbit, lots more.
 
 <h2>

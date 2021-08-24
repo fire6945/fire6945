@@ -1,4 +1,7 @@
-Hello, my name is Joseph. I'm a Python/JavaScript programmer in middle school. I mainly use Python, but I occasionally work on a JavaScript project. I want to be a Software Engineer, some day. Python is my legit second language.
+Hello, my name is Joseph. I'm a Python/JavaScript/Java programmer. Not so good in Java, though... :(
+
+I'm working on writing clean and readable code.
+I also want to get better at not procrastinating projects/learning :D
 
 
 <img alt="asianmancoder's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=asianmancoder&count_private=true&show_icons=true&theme=radical&hide_border=true"/>

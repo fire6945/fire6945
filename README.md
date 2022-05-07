@@ -37,19 +37,19 @@ Some things that I want to learn in Java are:
 - Internet - layer things such as webservers, APIs, HTTP requests and websockets
 - How to structure libraries using object - oriented design
 
-You can find some of my projects here:
-<a href="https://github.com/TycozrVoo/Projects/tree/main/gh">GH</a><br>
-<a href="https://github.com/jdl-joseph/DiscordLib">DiscordLib</a><br>
-<a href="https://github.com/jdl-joseph/Modules/blob/main/misc/xkcd_downloader.py">XKCD comic downloader</a><br>
-<a href="https://github.com/jdl-joseph/Modules/blob/main/misc/freesound_dl.py">Freesound downloader</a><br>
-<a href="https://github.com/TycozrVoo/Projects/blob/main/discord_gateway_client.py">A simple Discord gateway client. Part of a larger project</a><br>
-<a href="https://github.com/jdl-joseph/Modules/blob/main/Google/YouTubeWrapper.py">A YouTube video grabber that works without an API key</a><br>
-<a href="https://github.com/jdl-joseph/Modules/blob/main/Discord/status_switcher.js">A Discord status switcher. Works with POST requests to Discord's API. Run inside the DOM</a><br>
-<a href="https://github.com/jdl-joseph/Modules/blob/main/Discord/remote_requests_status_switcher.py">A Discord status switcher built with Flask. This sends remote requests to Discord from a webserver</a><br>
+You can find some of my projects here:<br>
+- <a href="https://github.com/TycozrVoo/Projects/tree/main/gh">GH</a><br>
+- <a href="https://github.com/jdl-joseph/DiscordLib">DiscordLib</a><br>
+- <a href="https://github.com/jdl-joseph/Modules/blob/main/misc/xkcd_downloader.py">XKCD comic downloader</a><br>
+- <a href="https://github.com/jdl-joseph/Modules/blob/main/misc/freesound_dl.py">Freesound downloader</a><br>
+- <a href="https://github.com/TycozrVoo/Projects/blob/main/discord_gateway_client.py">A simple Discord gateway client. Part of a larger project</a><br>
+- <a href="https://github.com/jdl-joseph/Modules/blob/main/Google/YouTubeWrapper.py">A YouTube video grabber that works without an API key</a><br>
+- <a href="https://github.com/jdl-joseph/Modules/blob/main/Discord/status_switcher.js">A Discord status switcher. Works with POST requests to Discord's API. Run inside the DOM</a><br>
+- <a href="https://github.com/jdl-joseph/Modules/blob/main/Discord/remote_requests_status_switcher.py">A Discord status switcher built with Flask. This sends remote requests to Discord from a webserver</a><br>
 
 My other profiles:<br>
-<a href="https://github.com/TycozrVoo">Mr. Tycozr Voo</a><br>
-<a href="https://replit.com/@FirestarDev">@FirestarDev</a>
+- <a href="https://github.com/TycozrVoo">Mr. Tycozr Voo</a><br>
+- <a href="https://replit.com/@FirestarDev">@FirestarDev</a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jdl-joseph&count_private=true&show_icons=true&theme=radical&hide_border=true"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdl-joseph&layout=compact&theme=radical&hide_border=true&card_width=250"/>

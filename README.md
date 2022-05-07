@@ -47,7 +47,7 @@ You can find some of my projects here:
 <a href="https://github.com/jdl-joseph/Modules/blob/main/Discord/status_switcher.js">A Discord status switcher. Works with POST requests to Discord's API. Run inside the DOM</a><br>
 <a href="https://github.com/jdl-joseph/Modules/blob/main/Discord/remote_requests_status_switcher.py">A Discord status switcher built with Flask. This sends remote requests to Discord from a webserver</a><br>
 
-My other profiles:
+My other profiles:<br>
 <a href="https://github.com/TycozrVoo">Mr. Tycozr Voo</a><br>
 <a href="https://replit.com/@FirestarDev">@FirestarDev</a>
 

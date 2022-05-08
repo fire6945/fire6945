@@ -1,5 +1,5 @@
 Hi!
-As you probably figured out from my username, my name is Joseph. I'm relatively new to the programming world, as I haven't been doing it for very many years. I like to code things that just happen to come to my mind.
+As you probably figured out from my username, my name is Joseph. I'm relatively new to the programming world, as I haven't been doing it for very many years. I like to code things that just happen to come to my mind. I still have a lot to learn, though...
 I'm working on:
 - Building more purposeful and thought - out programs
 - Not procrastinating

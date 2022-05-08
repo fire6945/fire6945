@@ -26,7 +26,7 @@ In Python, I have used the following libraries multiple times for a fair amount 
 - `re`
 - `cv2`
 - `discord.py`
-- `io`
+- `io`<br>
 In JavaScript, I have used the following APIs and libraries:
 -  `http` (NodeJS)
 -  `https` (NodeJS)
@@ -38,7 +38,7 @@ In JavaScript, I have used the following APIs and libraries:
 -  `ws` (NodeJS)
 -  `XMlHttpRequest` (Vanilla)
 -  `speechSynthesis` (Vanilla)
--  `SpeechRecognition` (Vanilla)
+-  `SpeechRecognition` (Vanilla)<br>
 I do not have as much experience in Java as I do in Python and JavaScript, but I am working to diversify my skills in that language. My main Java project is Minecraft modding. I don't have any fully developed mods yet, but once I do, I'll post it.
 Some things that I want to learn in Java are:
 - Database connectivity

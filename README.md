@@ -1,5 +1,14 @@
 Hi!
-As you probably figured out from my username, my name is Joseph.
+As you probably figured out from my username, my name is Joseph. I'm relatively new to the programming world, as I haven't been doing it for very many years. I like to code things that just happen to come to my mind.
+I'm working on:
+- Building more purposeful and thought - out programs
+- Not procrastinating
+- Problem Solving
+- Learning to take time to figure things out
+- Learning to manually deobfuscate JavaScript
+- Java
+- Maybe Rust, after Java. It seems like a pretty nice lang
+
 I have been programming for nearly 1.5 years (as of May 6th 2022 - which is when I am updating this file), and have acquired/strengthened skills such as:
 - Problem Solving
 - Web Scraping

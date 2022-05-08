@@ -44,7 +44,7 @@ Some things that I want to learn in Java are:
 - Database connectivity
 - Working with files and data collection
 - Internet - layer things such as webservers, APIs, HTTP requests and websockets
-- How to structure libraries using object - oriented design
+- How to structure applications using object - oriented design
 
 You can find some of my projects here:<br>
 - <a href="https://github.com/TycozrVoo/Projects/tree/main/gh">GH</a><br>

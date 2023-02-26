@@ -1,4 +1,4 @@
-- Python, JavaScript and Java
+- Python, JavaScript, and Java
 - Webapps and Networking
 - Web Scraping
 - Problem Solving!

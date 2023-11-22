@@ -3,7 +3,7 @@
 - Web Scraping
 - Problem Solving
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fire6945&layout=compact&theme=radical&hide_border=true&card_width=250"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fire6945&layout=compact&theme=radical&hide_border=true&card_width=250"/><br>
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/fire6945_ rel="nofollow" target="_blank" style='display: inline-block;'>
         <div class='fiverr-seller-content' id='fiverr-seller-widget-content-94fe4d79-3d77-4c69-809a-358185829d5a' itemprop='contentURL' style='display: none;'></div>

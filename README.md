@@ -2,7 +2,8 @@
 - Webapps and Networking
 - Web Scraping
 - Problem Solving
-<br>- Other interests:
+<br>
+- Other interests:
     - Physics
     - Mathematics
     - Theology and Metaphysics

@@ -1,3 +1,6 @@
+<h1>Hello</h1>
+<h6>and welcome to my profile.</h6>
+
 - Python, JavaScript, and Java
 - Webapps and Networking
 - Web Scraping

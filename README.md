@@ -3,11 +3,12 @@
 <h3>My name's Joseph, and I'm...</h3>
 <h5>
   <ul>
-    <li>a second generation Korean - American</li>
-    <li>well versed in Python</li>
-    <li>proficient in Java and JavaScript</li>
-    <li>learning C++</li>
-    <li>a computer science student</li>
+    <li>a second generation Korean - American 🌏</li>
+    <li>well versed in Python 🐍</li>
+    <li>proficient in Java and JavaScript ☕🌐</li>
+    <li>learning C++ 🎸</li>
+    <li>a computer science student 💻</li>
+    <li>always curious 🤯</li>
   </ul>
 </h5>
 <h3>In the world of programming, I enjoy webservers and networking, web scraping, and anything that operates on top of sockets.</h3>

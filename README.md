@@ -1,10 +1,8 @@
 <h1>Hello,</h1>
 <h3>and welcome to my profile.</h3>
 <h3>My name's Joseph, and I'm...</h3>
-```
-aord
-```<br>
-```
+
+```javascript
 <h5>
   <ul>
     <li>a second generation Korean - American 🌏</li>

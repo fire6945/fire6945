@@ -18,6 +18,7 @@
   <li>Theology and the human condition ✝️👉🏻👨</li>
   <li>Creative [essay] writing 📝🔐</li>
   <li>Reading 📕</li>
+  <li>Language learning 🇸🇪</li>
 </ul>
 
 <!--- <a href="https://www.fiverr.com/fire6945_">Contact me on Fiverr.</a> -->

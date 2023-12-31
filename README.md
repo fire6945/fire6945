@@ -20,6 +20,7 @@
   <li>Reading 📕</li>
   <li>Language learning 🇸🇪</li>
 </ul>
+You can reach me on Discord at fire6945 or email josephdlee08@gmail.com
 
 <!--- <a href="https://www.fiverr.com/fire6945_">Contact me on Fiverr.</a> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fire6945&layout=compact&theme=radical&hide_border=true&card_width=250"/>

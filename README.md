@@ -1,5 +1,5 @@
 <h1>Hello,</h1>
-<h3>and welcome to my profile.</h3><br>
+<h3>and welcome to my profile.</h3>
 <h3>My name's Joseph, and I'm...</h3>
 <h5>
   <ul>

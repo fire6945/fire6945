@@ -2,7 +2,7 @@
 <h3>and welcome to my profile.</h3>
 <h3>My name's Joseph, and I'm...</h3>
 
-```javascript
+```html
 <h5>
   <ul>
     <li>a second generation Korean - American 🌏</li>

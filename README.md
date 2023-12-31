@@ -2,6 +2,7 @@
 <h3>and welcome to my profile.</h3>
 <h3>My name's Joseph, and I'm...</h3>
 ```html
+<br>
 a second generation Korean - American 🌏
 well versed in Python 🐍
 proficient in Java and JavaScript ☕🌐

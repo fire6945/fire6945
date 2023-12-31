@@ -1,14 +1,14 @@
 <h1>Hello,</h1>
-<h4>and welcome to my profile.</h4><br>
-<h4>My name's Joseph, and I'm</h4>
-<h4>
+<h3>and welcome to my profile.</h3><br>
+<h3>My name's Joseph, and I'm</h3>
+<h5>
   <ul>
-    <li>a second generationn Korean - American</li>
+    <li>a second generation Korean - American</li>
     <li>well versed in Python</li>
     <li>proficient in Java and JavaScript</li>
     <li>learning C++</li>
   </ul>
-</h4>
+</h5>
 
 - Python, JavaScript, and Java
 - Webapps and Networking
